@@ -1,7 +1,7 @@
 # algoritmos-e-pensamento-computacional
 - _Prof. Marlon André Peron Generoso_
 - Semestre: 2026-2#
-- 
+  
 ## Cronograma de aulas:
 1. 03/ago: Diagnóstico inicial. Apresentação da disciplina
 2. 10/ago: Pensamento computacional + lógica + pseudocódigo + fundamentos de C
